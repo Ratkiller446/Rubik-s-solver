@@ -15,7 +15,7 @@ This project is a fully automatic Rubik's Cube solver written in C, using only P
 
 1. **Navigate to the project directory:**
    ```sh
-   cd rubicks
+   cd Rubik-s-solver
    ```
 2. **Build (always clean first):**
    ```sh
