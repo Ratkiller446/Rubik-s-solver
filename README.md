@@ -17,19 +17,11 @@ This project is a fully automatic Rubik's Cube solver written in C, using only P
    ```sh
    cd rubicks
    ```
-2. **Build:**
+2. **Build (always clean first):**
    ```sh
-   make
-   ```
-3. **Clean build artifacts:**
-   ```sh
-   make clean
+   make clean && make
    ```
 
-## Run the Solver
-```sh
-./rubicks
-```
 
 ## Example Output
 ```
