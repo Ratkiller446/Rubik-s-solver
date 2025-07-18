@@ -1,0 +1,11 @@
+# Ignore build artifacts and binaries
+rubicks
+build/
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.swp
+*.swo
+*.log 
